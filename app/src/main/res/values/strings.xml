@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTubeAPIApp</string>
+    <string name="API_URL">https://www.googleapis.com/youtube/v3/search?part=snippet&amp;channelId=UCwWhs_6x42TyRM4Wstoq8HA&amp;maxResults=10&amp;key=AIzaSyCg1gk4YEXHqESWCkmwIOLniQFRqGLJP0c</string>
+    <string name="YOUTUBE_DATA_API_KEY">AIzaSyCg1gk4YEXHqESWCkmwIOLniQFRqGLJP0c</string>
+</resources>
